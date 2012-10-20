@@ -2,6 +2,7 @@
 
 # Progtest tester
 # @author Jan Žák <zj@zakjan.cz>
+# @license MIT
 
 app_file="main" # application executable file
 data_dir="data" # path to test data
