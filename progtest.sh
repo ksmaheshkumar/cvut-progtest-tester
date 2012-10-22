@@ -45,5 +45,5 @@ for input in `ls $data_dir/*_in.txt`; do
 		echo
 	fi
 
-	rm out.txt
+	rm $output
 done
